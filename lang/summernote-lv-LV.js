@@ -16,7 +16,7 @@
       image: {
         image: 'Attēls',
         insert: 'Ievietot attēlu',
-        resizeFull: 'Pilns izmērts',
+        resizeFull: 'Pilns izmērs',
         resizeHalf: 'Samazināt 50%',
         resizeQuarter: 'Samazināt 25%',
         floatLeft: 'Līdzināt pa kreisi',
@@ -26,20 +26,20 @@
         shapeCircle: 'Forma: aplis',
         shapeThumbnail: 'Forma: rāmītis',
         shapeNone: 'Forma: orģināla',
-        dragImageHere: 'Ievēlciet attēlu šeit',
-        dropImage: 'Drop image or Text',
+        dragImageHere: 'Ievelciet attēlu šeit',
+        dropImage: 'Ievelciet attēlu vai tekstu',
         selectFromFiles: 'Izvēlēties failu',
         maximumFileSize: 'Maksimālais faila izmērs',
         maximumFileSizeError: 'Faila izmērs pārāk liels!',
-        url: 'Attēla URL',
+        url: 'Attēla saite',
         remove: 'Dzēst attēlu',
-        original: 'Original'
+        original: 'Oriģināls'
       },
       video: {
         video: 'Video',
-        videoLink: 'Video Link',
-        insert: 'Insert Video',
-        url: 'Video URL?',
+        videoLink: 'Video saite',
+        insert: 'Pievienot Video',
+        url: 'Video saite',
         providers: '(YouTube, Vimeo, Vine, Instagram, DailyMotion or Youku)'
       },
       link: {
@@ -48,18 +48,18 @@
         unlink: 'Noņemt saiti',
         edit: 'Rediģēt',
         textToDisplay: 'Saites saturs',
-        url: 'Koks URL adresas yra susietas?',
+        url: 'Saite',
         openInNewWindow: 'Atvērt jaunā logā'
       },
       table: {
         table: 'Tabula',
-        addRowAbove: 'Add row above',
-        addRowBelow: 'Add row below',
-        addColLeft: 'Add column left',
-        addColRight: 'Add column right',
-        delRow: 'Delete row',
-        delCol: 'Delete column',
-        delTable: 'Delete table'
+        addRowAbove: 'Pievienot rindu augstāk',
+        addRowBelow: 'Pievienot rindu zemāk',
+        addColLeft: 'Pievienot kolonnu pa kreisi',
+        addColRight: 'Pievienot kolonnu pa labi',
+        delRow: 'Dzēst rindu',
+        delCol: 'Dzēst kolonnu',
+        delTable: 'Dzēst tabulu'
       },
       hr: {
         insert: 'Ievietot līniju'
@@ -143,12 +143,12 @@
         'linkDialog.show': 'Parādīt saites logu'
       },
       history: {
-        undo: 'Atsauks (undo)',
-        redo: 'Atkārtot (redo)'
+        undo: 'Atcelt (undo)',
+        redo: 'Atsaukt (redo)'
       },
       specialChar: {
-        specialChar: 'SPECIAL CHARACTERS',
-        select: 'Select Special characters'
+        specialChar: 'Speciāli simboli',
+        select: 'iezīmēt speciālos simbolus'
       }
     }
   });
